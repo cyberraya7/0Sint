@@ -1,2 +1,2 @@
-# 0Sint
+# OSINT
 OSINT Tools Collection
